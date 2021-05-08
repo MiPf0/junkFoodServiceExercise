@@ -1,0 +1,4 @@
+[main] INFO  org.lecture.JunkFoodDriver - Destination selected.
+[main] INFO  org.lecture.JunkFoodDriver - User order taken.
+[main] INFO  org.lecture.JunkFoodDriver - User informed about cost, time and delivery.
+[main] INFO  org.lecture.JunkFoodDriver - Order delivered.
